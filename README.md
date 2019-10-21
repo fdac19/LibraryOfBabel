@@ -4,4 +4,4 @@ The Library of Babel is a permutation of every possible combination of character
 
 
 
-Team members: Bradley White, Mister Lu, Cody Sanders, Rachel Offutt
+Team members: Bradley White, Zhixiu Lu, Cody Sanders, Rachel Offutt
