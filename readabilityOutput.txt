@@ -1,0 +1,201 @@
+readability --lang=en copyRightLaw.txt 
+readability grades:
+    Kincaid:                          7.17
+    ARI:                              7.72
+    Coleman-Liau:                    10.86
+    FleschReadingEase:               64.07
+    GunningFogIndex:                 12.01
+    LIX:                             41.98
+    SMOGIndex:                       10.99
+    RIX:                              3.5
+    DaleChallIndex:                  11.25
+sentence info:
+    characters_per_word:              4.97
+    syll_per_word:                    1.55
+    words_per_sentence:              11.46
+    sentences_per_paragraph:          6.65
+    type_token_ratio:                 0.04
+    characters:                  759046
+    syllables:                   236553
+    words:                       152610
+    wordtypes:                     6578
+    sentences:                    13321
+    paragraphs:                    2002
+    long_words:                   46585
+    complex_words:                28337
+    complex_words_dc:             68134
+word usage:
+    tobeverb:                      3167
+    auxverb:                       2055
+    conjunction:                   7356
+    pronoun:                       3787
+    preposition:                  23484
+    nominalization:                8407
+sentence beginnings:
+    pronoun:                        174
+    interrogative:                   21
+    article:                        783
+    subordination:                  167
+    conjunction:                    359
+    preposition:                   1213
+lu@lu-Latitude-E7470:~/LibraryOfBabel$ readability --lang=en 10000.txt 
+readability grades:
+    Kincaid:                         10.21
+    ARI:                             10.1
+    Coleman-Liau:                    -6.65
+    FleschReadingEase:               23.66
+    GunningFogIndex:                 14
+    LIX:                             49.9
+    SMOGIndex:                        6.19
+    RIX:                              0.49
+    DaleChallIndex:                  16.33
+sentence info:
+    characters_per_word:              6.59
+    syll_per_word:                    2.15
+    words_per_sentence:               1
+    sentences_per_paragraph:      10000
+    type_token_ratio:                 1
+    characters:                   65888
+    syllables:                    21532
+    words:                        10000
+    wordtypes:                    10000
+    sentences:                    10000
+    paragraphs:                       1
+    long_words:                    4890
+    complex_words:                 3400
+    complex_words_dc:              8008
+word usage:
+    tobeverb:                         7
+    auxverb:                         10
+    conjunction:                      5
+    pronoun:                         35
+    preposition:                     58
+    nominalization:                 408
+sentence beginnings:
+    pronoun:                         35
+    interrogative:                    7
+    article:                          3
+    subordination:                   15
+    conjunction:                      5
+    preposition:                     58
+lu@lu-Latitude-E7470:~/LibraryOfBabel$ readability --lang=en grim.txt 
+readability grades:
+    Kincaid:                          2.39
+    ARI:                              3.43
+    Coleman-Liau:                     5.02
+    FleschReadingEase:              100.4
+    GunningFogIndex:                  6.63
+    LIX:                             22.77
+    SMOGIndex:                        6.87
+    RIX:                              1.28
+    DaleChallIndex:                   6.31
+sentence info:
+    characters_per_word:              3.94
+    syll_per_word:                    1.11
+    words_per_sentence:              12.61
+    sentences_per_paragraph:          7.96
+    type_token_ratio:                 0.06
+    characters:                  412668
+    syllables:                   115928
+    words:                       104745
+    wordtypes:                     5985
+    sentences:                     8304
+    paragraphs:                    1043
+    long_words:                   10636
+    complex_words:                 4138
+    complex_words_dc:             13617
+word usage:
+    tobeverb:                      3172
+    auxverb:                       2048
+    conjunction:                   6727
+    pronoun:                      15082
+    preposition:                  12628
+    nominalization:                 199
+sentence beginnings:
+    pronoun:                        883
+    interrogative:                  160
+    article:                        663
+    subordination:                  164
+    conjunction:                    481
+    preposition:                    811
+lu@lu-Latitude-E7470:~/LibraryOfBabel$ readability --lang=en paper.txt 
+readability grades:
+    Kincaid:                          0.25
+    ARI:                              2.07
+    Coleman-Liau:                     4.49
+    FleschReadingEase:              102.19
+    GunningFogIndex:                  7.38
+    LIX:                             28.75
+    SMOGIndex:                        7.49
+    RIX:                              1.19
+    DaleChallIndex:                  14.76
+sentence info:
+    characters_per_word:              4.46
+    syll_per_word:                    1.18
+    words_per_sentence:               5
+    sentences_per_paragraph:          6.13
+    type_token_ratio:                 0.18
+    characters:                  199992
+    syllables:                    52798
+    words:                        44862
+    wordtypes:                     8030
+    sentences:                     8973
+    paragraphs:                    1463
+    long_words:                   10656
+    complex_words:                 6029
+    complex_words_dc:             30896
+word usage:
+    tobeverb:                      1075
+    auxverb:                        248
+    conjunction:                   1064
+    pronoun:                       1224
+    preposition:                   3636
+    nominalization:                1330
+sentence beginnings:
+    pronoun:                        147
+    interrogative:                   21
+    article:                        186
+    subordination:                   48
+    conjunction:                     98
+    preposition:                    278
+lu@lu-Latitude-E7470:~/LibraryOfBabel$ readability --lang=en wiki-100k.txt 
+readability grades:
+    Kincaid:                          9.1
+    ARI:                             10.51
+    Coleman-Liau:                    -4.53
+    FleschReadingEase:               31.73
+    GunningFogIndex:                 10.4
+    LIX:                             52.16
+    SMOGIndex:                        5.81
+    RIX:                              0.54
+    DaleChallIndex:                  17.92
+sentence info:
+    characters_per_word:              6.67
+    syll_per_word:                    2.06
+    words_per_sentence:               1.06
+    sentences_per_paragraph:      99902
+    type_token_ratio:                 0.76
+    characters:                  705355
+    syllables:                   217560
+    words:                       105759
+    wordtypes:                    80833
+    sentences:                    99902
+    paragraphs:                       1
+    long_words:                   54047
+    complex_words:                26377
+    complex_words_dc:             95337
+word usage:
+    tobeverb:                        58
+    auxverb:                         73
+    conjunction:                     44
+    pronoun:                        405
+    preposition:                    327
+    nominalization:                3926
+sentence beginnings:
+    pronoun:                        293
+    interrogative:                   47
+    article:                         52
+    subordination:                   59
+    conjunction:                     23
+    preposition:                    256
+
